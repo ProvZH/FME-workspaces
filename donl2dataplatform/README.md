@@ -1,4 +1,4 @@
-Deze workspace kopieert de metadata van de provincie Zuid-Holland op [data.overheid.nl](http://data.overheid.nl) naar [Dataplatform.nl](http:/zuid-holland.dataplatform.nl). Hij is bedoeld om de NGR metadata initieel in te lezen in de database van Dataplatform.nl.
+Deze workspace kopieert de metadata van de provincie Zuid-Holland op [Data.overheid.nl](http://data.overheid.nl) naar [Dataplatform.nl](http:/zuid-holland.dataplatform.nl). Hij is bedoeld om de NGR metadata initieel in te lezen in de database van Dataplatform.nl.
 
 Data.overheid.nl en Dataplatform.nl zijn beide gebouwd op [CKAN](https://nl.wikipedia.org/wiki/CKAN). Voor het uitlezen en wegschrijven van de gegevens maak de workspace dan ook gebruik van de [CKAN API](https://docs.ckan.org/en/2.8/api/). 
 
