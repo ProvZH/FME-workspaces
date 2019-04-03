@@ -7,7 +7,10 @@ FME workspaces in deze repository:
 * [Openbaar vervoer lijnen](../../tree/master/ov_lijnen)
 * [Kopie van data.overheid.nl naar Dataplatform.nl](../../tree/master/donl2dataplatform)
 
-De FME workspaces zijn gemaakt in FME Desktop 2018.1.
+Custom transformers:
+* [DataloketUploader](https://github.com/ProvZH/ddd-energie/tree/master/FME_DataUploader)
+
+De FME workspaces zijn gemaakt in FME Desktop 2018.
 
 De workspaces worden beschikbaar gesteld onder een [EUPL (European Union Public Licence)](https://eupl.eu/1.2/nl/).
 
